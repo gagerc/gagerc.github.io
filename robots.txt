@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gagerc.github.io/Lkd/sitemap.Lkd.gz
